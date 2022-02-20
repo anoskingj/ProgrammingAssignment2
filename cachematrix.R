@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## The first function, makeCacheMatrix creates a special "matrix",
+## The first function, makeCacheMatrix creates a special "matrix"
 makeCacheMatrix <- function(x = matrix()) {
     inve <- NULL
     set <- function(y) {
